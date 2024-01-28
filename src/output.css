@@ -1156,4 +1156,6 @@ video {
   }
 
   .dark\:focus\:ring-offset-gray-800:focus {
-    --tw-ring-
+    --tw-ring-offset-color: #1f2937;
+  }
+}
